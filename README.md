@@ -1,6 +1,10 @@
 # YashRavalportfolio
 # Introduction
-Hello my name is Yash Raval.I am currently studying Data Analytics of Business Decision Making in Durham College.In my native country India i completed bechlors of engineering in Information technology.My goal is to be Data analyst and to construct the means for extracting business-focused insights from data.YASH
+Hello my name is Yash Raval.I am currently studying Data Analytics of Business Decision Making in Durham College.In my native country India i completed bechlors of engineering in Information technology.My goal is to be Data analyst and to construct the means for extracting business-focused insights from data. To added that here i want to provide a little flow chart of my personal roadmap.
+
+
+![image](https://user-images.githubusercontent.com/101909638/163650611-a7dfe444-6984-489a-8f4a-e0812fa846b0.png)
+
 # My Skills
 1.	Presentation skill-	Presentations may seem as old as the mountains, but they are not going away any time soon. As a data scientist I am going to have to at some time or another have to prepare and deliver a presentation.	There are different approaches and techniques to effectively handle different classes of presentations which i have 
 One to one
